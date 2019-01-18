@@ -1,0 +1,7 @@
+partial modifier_keys
+xkb_symbols "swapkeys" {
+  key <MUHE>  { [ Escape ] };
+  key <HENK>  { [ Return ] };
+  key <HKTG>  { [ BackSpace,Delete ] };
+};
+
